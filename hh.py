@@ -1,3 +1,5 @@
 print('salamu alaikum')
-print("n f hvkfkd vik k")
-print("jcb   sd")
+print("jbj f")
+def fun(x):
+    return x*8
+print(fun(5))
