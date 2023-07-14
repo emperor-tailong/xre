@@ -1,12 +1,10 @@
 # xre
-bj
-## mnv j
-b jjf 
-j uc
- sjn k
-## shubsdv u
-en 
-sl cdkc's
- sk
- jsdb d 
- sk ds
+Making everything look presentable
+## subheader
+Cool
+
+# skid
+local development
+
+1. created a new branch called new_branch
+2. Open hh.py in your browser
